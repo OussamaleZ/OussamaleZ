@@ -61,26 +61,24 @@ Currently, I’m seeking a **research internship (Spring–Summer 2026)** focuse
 ---
 ## 📚 Education
 
-🎓 **M.Sc. in Mathematics, Vision & Learning (MVA)** — *ENS Paris-Saclay (Institut Polytechnique de Paris)*  
+🎓 **M.Sc. in Mathematics, Vision & Learning (MVA)** — *ENS Paris-Saclay*  
 📅 *Sep. 2025 – Aug. 2026*  
-A **selective, research-oriented master’s program** in **machine learning, computer vision, and statistical modeling**, uniting academic rigor and practical insight.  
-**Key coursework:** Deep Learning, Reinforcement Learning, Optimal Transport for Machine Learning, and Geometric Methods in AI.  
-**Objective:** Develop a strong theoretical foundation for **AI research and scientific computing**.
+A **selective, research-oriented master’s program** in **machine learning, computer vision, and mathematics**, uniting academic rigor and practical insight.  
+**Relevant Coursework:** Deep Learning, Large Language Models, Machine Learning for Time-Series, Reinforcement Learning, Optimal Transport for Machine Learning.  
 
 ---
 
 🎓 **B.Sc. & M.Sc. in Applied Mathematics and Computer Science** — *École Polytechnique*  
 📅 *Sep. 2022 – Aug. 2026*  
-An **elite French “Grande École”** training in **mathematics, optimization, and AI engineering**, combining theory, computation, and real-world problem-solving.  
+One of France’s leading schools for sciences and engineering
 **Relevant coursework:** Algorithms for Data Analysis, Machine and Deep Learning, Probability & Statistics, Optimization Methods.  
-**Notable:** Admitted through the **international competitive entrance exam (Top 2%)**.
 
 ---
 
 🎓 **Classes Préparatoires (Lycée Louis-le-Grand, Paris)** — Mathematics, Physics & Computer Science  
 📅 *Sep. 2020 – Jun. 2022*  
 Two years of **intensive training** in advanced mathematics and physics for France’s most selective scientific entrance exams.  
-**Achievements:** Admitted to **École Polytechnique** and **ENS Ulm Paris** programs after national selection.
+Admitted to **École Polytechnique** and **ENS Ulm Paris**.
 
 ---
 
