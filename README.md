@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Oussama Zouhry
 
-<img align="left" width="100" src="profile.jpg" alt="Oussama Zouhry">
-
 🎓 **École Polytechnique & MVA (ENS Paris-Saclay)**  
 📍 Paris, France  
 📧 oussama.zouhry@polytechnique.edu <!-- | 🌐 [oussamazouhry.com](https://oussamazouhry.com) -->
