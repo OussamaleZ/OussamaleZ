@@ -84,9 +84,9 @@ Admitted to **École Polytechnique** and **ENS Ulm Paris**.
 
 ## 🌍 Volunteering
 
-- 💼 **Treasurer @ Math&Maroc** — Managed a **$50k+ annual budget**, led partnerships and sponsorships, and organized an **AI Hackathon** gathering over **75 graduate participants** across Morocco.  
-- 👨‍🏫 **Teaching Assistant @ Lycée Paul-Éluard (Seine-Saint-Denis)** — Designed and graded problem sets for **200+ high-school students** from underprivileged backgrounds as part of École Polytechnique’s outreach program.  
-- 🌟 **Vice President @ X-Maroc (École Polytechnique)** — Represented **Moroccan students** within the Polytechnique community and organized **on-campus and off-campus cultural events**. 
+- 💼 **Treasurer @ Math&Maroc** - Managed a **$50k+ annual budget**, led partnerships and sponsorships, and organized an **AI Hackathon** gathering over **75 graduate participants** across Morocco.  
+- 👨‍🏫 **Teaching Assistant @ Lycée Paul-Éluard (Seine-Saint-Denis)** - Designed and graded problem sets for **200+ high-school students** from underprivileged backgrounds as part of École Polytechnique’s outreach program.  
+- 🌟 **Vice President @ X-Maroc (École Polytechnique)** - Represented **Moroccan students** within the Polytechnique community and organized **on-campus and off-campus cultural events**. 
 ---
 
 <!-- 
