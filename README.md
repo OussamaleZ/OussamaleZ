@@ -71,8 +71,8 @@ A **selective, research-oriented master’s program** in **machine learning, com
 
 🎓 **B.Sc. & M.Sc. in Applied Mathematics and Computer Science** — *École Polytechnique*  
 📅 *Sep. 2022 – Aug. 2026*  
-One of France’s leading schools for sciences and engineering
-**Relevant coursework:** Algorithms for Data Analysis, Machine and Deep Learning, Probability & Statistics, Optimization Methods.  
+One of France’s leading schools for sciences and engineering.
+**Relevant coursework:** Probability & Statistics, Algorithms for Data Analysis, Machine and Deep Learning, Optimization.  
 
 ---
 
