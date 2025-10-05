@@ -13,7 +13,7 @@
 I'm a fourth-year engineering student at École Polytechnique and a Master’s student in the selective MVA program (Mathematics, Vision & Learning) at ENS Paris-Saclay.  
 My research interests include: machine learning theory, generative models and combinatorial optimization.
 
-Currently, I’m seeking a **research internship (Spring–Summer 2026)** focused on **AI methods and their theoretical foundations**.
+Currently, I’m seeking a **research internship (Spring–Summer 2026)** focused on **AI methods, their theoretical foundations and applications**.
 
 ---
 
@@ -64,33 +64,28 @@ Currently, I’m seeking a **research internship (Spring–Summer 2026)** focuse
 
 🎓 **M.Sc. in Mathematics, Vision & Learning (MVA)** — *ENS Paris-Saclay*  
 📅 *Sep. 2025 – Aug. 2026*  
-A selective, research-oriented master’s program in machine learning, computer vision, and mathematics.  
-
-**Relevant Coursework:** Deep Learning, Large Language Models, Machine Learning for Time-Series, Reinforcement Learning, Optimal Transport for Machine Learning.  
+A selective, research-oriented master’s program in machine learning, computer vision, and mathematics. **Relevant Coursework:** Deep Learning, Large Language Models, Machine Learning for Time-Series, Reinforcement Learning, Optimal Transport for Machine Learning.  
 
 ---
 
 🎓 **B.Sc. & M.Sc. in Applied Mathematics and Computer Science** — *École Polytechnique*  
 📅 *Sep. 2022 – Aug. 2026*  
-One of France’s leading schools for sciences and engineering.
-
+One of France’s leading schools for sciences and engineering. 
 **Relevant coursework:** Probability & Statistics, Algorithms for Data Analysis, Machine and Deep Learning, Optimization.  
 
 ---
 
 🎓 **Classes Préparatoires (Lycée Louis-le-Grand, Paris)** — Mathematics, Physics & Computer Science  
 📅 *Sep. 2020 – Jun. 2022*  
-Two years of intensive training in advanced mathematics and physics for France’s most selective scientific entrance exams.  
-
-Admitted to École Polytechnique and ENS Ulm Paris.
+Two years of intensive training in advanced mathematics and physics for France’s most selective scientific entrance exams. Admitted to École Polytechnique and ENS Ulm Paris.
 
 ---
 
 ## 🌍 Volunteering
 
-- 💼 **Treasurer @ Math&Maroc** - Managed a **$50k+ annual budget**, led partnerships and sponsorships, and organized an **AI Hackathon** gathering over **75 graduate participants** across Morocco.  
-- 👨‍🏫 **Teaching Assistant @ Lycée Paul-Éluard (Seine-Saint-Denis)** - Designed and graded problem sets for **200+ high-school students** from underprivileged backgrounds as part of École Polytechnique’s outreach program.  
-- 🌟 **Vice President @ X-Maroc (École Polytechnique)** - Represented **Moroccan students** within the Polytechnique community and organized **on-campus and off-campus cultural events**. 
+- 💼 **Treasurer @ Math&Maroc** - Managed a **$50k+ annual budget**, led partnerships and sponsorships, and organized an AI Hackathon gathering over 75 graduate participants across Morocco.  
+- 👨‍🏫 **Teaching Assistant @ Lycée Paul-Éluard (Seine-Saint-Denis)** - Designed and graded problem sets for 200+ high-school students from underprivileged backgrounds as part of École Polytechnique’s outreach program.  
+- 🌟 **Vice President @ X-Maroc (École Polytechnique)** - Represented Moroccan students within Ecole Polytechnique and organized on-campus and off-campus cultural events. 
 ---
 
 <!-- 
