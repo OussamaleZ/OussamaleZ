@@ -36,9 +36,9 @@ Currently, I’m seeking a **research internship (Spring–Summer 2026)** focuse
 | Project | Description | Keywords |
 |----------|--------------|-----------|
 | **Graph Neural Networks for Node Classification** | Studied **Lagrangian propagation** as an optimization framework for GNNs, benchmarking on public datasets under Prof. Amine Aboussalah’s supervision. | Graph Learning, Optimization |
-| **Traffic Optimization using Segment Routing** | Conducted **extensive benchmarking** on the latest advancements in internet routing. Worked with Prof. **Éric Gourdin** on leveraging **segment routing techniques** to enhance network efficiency and resilience. *(Team Research Project, École Polytechnique, 2023–2024)* | Operations Research, Network Optimization, Routing |
+| **Traffic Optimization using Segment Routing** | Conducted **extensive benchmarking** on the latest advancements in internet routing. Worked with Prof. **Éric Gourdin** on leveraging **segment routing techniques** to enhance network efficiency and resilience. | Operations Research, Network Optimization, Routing |
+| **Parallel Computing for Graph Theory** | Analyzed various approaches to the **Maximal Independent Set problem**, focusing on **parallelization strategies**. Implemented **Luby’s Algorithm** in Python, demonstrating the efficiency of parallel computing in large-scale graph analysis. | Parallel Computing, Graph Theory, Algorithms |
 | **Graphical Languages for Quantum ML** | Explored **diagrammatic calculus** for quantum circuits and differentiable quantum programming (under Prof. Titouan Carette). | Quantum Machine Learning, Category Theory |
-| **Parallel Computing for Graph Theory** | Analyzed various approaches to the **Maximal Independent Set problem**, focusing on **parallelization strategies**. Implemented **Luby’s Algorithm** in Python, demonstrating the efficiency of parallel computing in large-scale graph analysis. *(Independent Research Project, 2021–2022)* | Parallel Computing, Graph Theory, Algorithms |
 
 ---
 
