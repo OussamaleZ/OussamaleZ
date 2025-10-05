@@ -35,10 +35,10 @@ Currently, I’m seeking a **research internship (Spring–Summer 2026)** focuse
 
 | Project | Description | Keywords |
 |----------|--------------|-----------|
-| **Graph Neural Networks for Node Classification** | Studied **Lagrangian propagation** as an optimization framework for GNNs; benchmarked on public datasets under Prof. Amine Aboussalah’s supervision. | Graph Learning, Optimization |
-| **Traffic Optimization using Segment Routing** | Conducted **extensive benchmarking** on the latest advancements in internet routing. Worked with Prof. **Éric Gourdin** on leveraging **segment routing techniques** to enhance network efficiency and resilience. | Operations Research, Network Optimization, Routing |
-| **Parallel Computing for Graph Theory** | Analyzed various approaches to the **Maximal Independent Set problem**, focusing on **parallelization strategies**. Implemented **Luby’s Algorithm** in Python, demonstrating the efficiency of parallel computing in large-scale graph analysis. | Parallel Computing, Graph Theory, Algorithms |
-| **Graphical Languages for Quantum ML** | Explored **diagrammatic calculus** for quantum circuits and differentiable quantum programming (under Prof. Titouan Carette). | Quantum Machine Learning, Category Theory |
+| **Graph Neural Networks for Node Classification** | Studied Lagrangian propagation as an optimization framework for GNNs; benchmarked on public datasets under Prof. Amine Aboussalah’s supervision. | Graph Learning, Optimization |
+| **Traffic Optimization using Segment Routing** | Conducted extensive benchmarking on the latest advancements in internet routing. Worked with Prof. **Éric Gourdin** on leveraging **segment routing techniques** to enhance network efficiency and resilience. | Operations Research, Network Optimization, Routing |
+| **Parallel Computing for Graph Theory** | Analyzed various approaches to the Maximal Independent Set problem, focusing on parallelization strategies. Implemented Luby’s Algorithm in Python, demonstrating the efficiency of parallel computing in large-scale graph analysis. | Parallel Computing, Graph Theory, Algorithms |
+| **Graphical Languages for Quantum ML** | Explored diagrammatic calculus for quantum circuits and differentiable quantum programming (under Prof. Titouan Carette). | Quantum Machine Learning, Category Theory |
 
 ---
 
@@ -54,7 +54,7 @@ Currently, I’m seeking a **research internship (Spring–Summer 2026)** focuse
 
 - 🥉 **3rd Place – Perceval Quantum Challenge (Quandela)** *(30+ teams)*  
 - 🎓 **Fellow – Moroccan Merit Scholarship** *(2022–2025)*  
-- 🏅 **Runner-up – École Polytechnique International Entrance Exam** *(1000+ candidates)*  
+- 🏅 **Runner-up – École Polytechnique International Entrance Exam**  
 - 🧮 **Finalist – Moroccan IMO Team Selection Test (TST)** *(2020)*  
 - 🧠 **Bronze Medal – Mediterranean Youth Mathematical Championship (MYMC)** *(2019)*
 
