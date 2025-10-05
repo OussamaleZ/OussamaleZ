@@ -26,6 +26,7 @@ Currently, I’m seeking a **research internship (Spring–Summer 2026)** focuse
 
 ### 🔹 AI Consultant — *OCP Solutions*  
 📅 *Jun 2024 – Sep 2024, Casablanca (Morocco)*  
+- OCP Solutions is the consulting firm of OCP Group, a global mining company
 - Developed **AI use cases** for agricultural clients: image classification & conversational chatbot  
 
 ---
@@ -85,9 +86,9 @@ Two years of **intensive training** in advanced mathematics and physics for Fran
 
 ## 🌍 Volunteering
 
-- 💼 **Treasurer @ Math&Maroc** – Managed a **$50k+** budget, organized an **AI Hackathon** with 75 graduate attendees  
-- 👨‍🏫 **Teaching Assistant @ Lycée Paul Eluard (Seine Saint-Denis)** – Designed problem sets and assessed 200+ high-school students from low-income areas
-- **Vice-president at X-Maroc** - 
+- 💼 **Treasurer @ Math&Maroc** — Managed a **$50k+ annual budget**, led partnerships and sponsorships, and organized an **AI Hackathon** gathering over **75 graduate participants** across Morocco.  
+- 👨‍🏫 **Teaching Assistant @ Lycée Paul-Éluard (Seine-Saint-Denis)** — Designed and graded problem sets for **200+ high-school students** from underprivileged backgrounds as part of École Polytechnique’s outreach program.  
+- 🌟 **Vice President @ X-Maroc (École Polytechnique)** — Represented **Moroccan students** within the Polytechnique community and organized **on-campus and off-campus cultural events**. 
 ---
 
 <!-- 
