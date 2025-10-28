@@ -9,9 +9,9 @@
 ## 🚀 About Me
 
 I'm a fourth-year engineering student at École Polytechnique and a Master’s student in the selective MVA program (Mathematics, Vision & Learning) at ENS Paris-Saclay.  
-My research interests include: machine learning theory, generative models and combinatorial optimization.
 
-<!-- Currently, I’m seeking a **research internship (Spring–Summer 2026)** focused on **AI methods, their theoretical foundations and applications**. -->
+<!-- My research interests include: machine learning theory, generative models and combinatorial optimization.
+Currently, I’m seeking a **research internship (Spring–Summer 2026)** focused on **AI methods, their theoretical foundations and applications**. -->
 
 ---
 
