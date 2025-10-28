@@ -19,7 +19,7 @@ Currently, I’m seeking a **research internship (Spring–Summer 2026)** focuse
 
 ### 🔹 Research Intern — *New York University, Tandon School of Engineering*  
 📅 *Apr 2025 – Jul 2025, New York (USA)*  
-- Designed **novel combinatorial optimization algorithms** inspired by language models, statistical physics and information geometry  
+- Designed **novel decision-making algorithms** based on machine learning and language models  
 - Conducted **large-scale HPC experiments** with PyTorch + SLURM, analyzed results via **Weights & Biases**
 
 ### 🔹 AI Consultant — *OCP Solutions*  
