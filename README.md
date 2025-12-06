@@ -49,8 +49,6 @@ Two years of intensive training in advanced mathematics and physics for Franceâ€
 
 ---
 
--->
-
 ## ðŸ“« Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oussama%20Zouhry-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oussama-zouhry)
