@@ -28,36 +28,6 @@ Currently, I’m seeking a **research internship (Spring–Summer 2026)** focuse
 - Developed **AI use cases** for agricultural clients: image classification & conversational chatbot  
 
 ---
-
-## 🧠 Project Work
-
-| Project | Description | Keywords |
-|----------|--------------|-----------|
-| **Graph Neural Networks for Node Classification** | Studied Lagrangian propagation as an optimization framework for GNNs; benchmarked on public datasets under Prof. Amine Aboussalah’s supervision. | Graph Learning, Optimization |
-| **Traffic Optimization using Segment Routing** | Conducted extensive benchmarking on the latest advancements in internet routing. Worked with Prof. Éric Gourdin on leveraging segment routing techniques to enhance network efficiency and resilience. | Operations Research, Network Optimization, Routing |
-| **Parallel Computing for Graph Theory** | Analyzed various approaches to the Maximal Independent Set problem, focusing on parallelization strategies. Implemented Luby’s Algorithm in Python, demonstrating the efficiency of parallel computing in large-scale graph analysis. | Parallel Computing, Graph Theory, Algorithms |
-| **Quantum Information Networks** | Conducted a team research project supervised by Prof. Gilles Schaeffer (École Polytechnique) and Dr. Agathe Blaise (Thales SIX). Developed and implemented routing simulation tools comparing satellite vs. fiber quantum links for quantum key distribution (QKD) using the NetSquid library. | Routing, Quantum Networks, Simulation |
-| **Graphical Languages for Quantum ML** | Explored diagrammatic calculus for quantum circuits and differentiable quantum programming (under Prof. Titouan Carette). | Quantum Machine Learning, Category Theory |
-
----
-
-## ⚙️ Skills
-
-**Programming:** Python (PyTorch, TensorFlow, Pandas, Git), JAX, SQL, OCaml, Agda  
-**Machine Learning:** Transformers, Recurrent Neural Networks, Graph Neural Networks, Large Language Models, Natural Language Processing  
-**Languages:** 🇫🇷 French (native), 🇲🇦 Arabic (native), 🇬🇧 English (TOEFL iBT 105), 🇪🇸 Spanish (beginner)
-
----
-
-## 🏆 Awards & Achievements
-
-- 🥉 **3rd Place – Perceval Quantum Challenge (Quandela)** *(30+ teams)*  
-- 🎓 **Fellow – Moroccan Merit Scholarship** *(2022–2025)*  
-- 🏅 **Runner-up – École Polytechnique International Entrance Exam**  
-- 🧮 **Finalist – Moroccan IMO Team Selection Test (TST)** *(2020)*  
-- 🧠 **Bronze Medal – Mediterranean Youth Mathematical Championship (MYMC)** *(2019)*
-
----
 ## 📚 Education
 
 🎓 **M.Sc. in Mathematics, Vision & Learning (MVA)** — *ENS Paris-Saclay*  
@@ -79,19 +49,6 @@ Two years of intensive training in advanced mathematics and physics for France�
 
 ---
 
-## 🌍 Volunteering
-
-- 💼 **Treasurer @ Math&Maroc** - Managed a **$50k+ annual budget**, led partnerships and sponsorships, and organized an AI Hackathon gathering over 75 graduate participants across Morocco.  
-- 👨‍🏫 **Teaching Assistant @ Lycée Paul-Éluard (Seine-Saint-Denis)** - Designed and graded problem sets for 200+ high-school students from underprivileged backgrounds as part of École Polytechnique’s outreach program.  
-- 🌟 **Vice President @ X-Maroc (École Polytechnique)** - Represented Moroccan students within Ecole Polytechnique and organized on-campus and off-campus cultural events. 
----
-
-<!-- 
-## 🌌 Current Goals
-
-I’m passionate about **bridging theoretical insights and practical AI** — exploring how **information geometry, optimization, and quantum ideas** can inspire the next generation of learning algorithms.  
-If you’re working on similar research topics, I’d love to connect or collaborate!
----
 -->
 
 ## 📫 Connect with Me
